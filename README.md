@@ -1,9 +1,3 @@
-Here is a comprehensive, professional, and easy-to-follow `README.md` file for your project.
-
-I have structured it to guide the user from zero to a fully running dashboard, including optional steps for running it 24/7 as a background service.
-
----
-
 # ⛓️ Teranode Monitor - Enhanced Edition
 
 A visually stunning, Flask-based web dashboard to monitor your Bitcoin SV (BSV) Teranode. featuring a "Matrix" style aesthetic, floating blockchain animations, and real-time network statistics.
