@@ -1,4 +1,4 @@
-# ⛓️ Teranode Monitor - Enhanced Edition
+# ⛓️ Teranode Monitor
 
 A visually stunning, Flask-based web dashboard to monitor your Bitcoin SV (BSV) Teranode. featuring a "Matrix" style aesthetic, floating blockchain animations, and real-time network statistics.
 
